@@ -1,0 +1,36 @@
+{
+  "carrier":{
+    "info":"After your name, the resume objective (or career objective) will be the first section that hiring managers see on your resume"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "data":["2015-19","55%"]
+    },
+    {
+      "degree":"intermediate",
+      "institute":"Narayana Junior College",
+      "data":["2013-15","70%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"RBPS",
+      "data":["2013","63%"]
+    }
+  ]
+}
+"skills":[
+  {
+    "name":"programming languages",
+    "data":["c","c++","python","mysql"]
+  },
+  {
+    "name":"wed technology",
+    "data":["html","css","javascript","ruby","perl","anjular.js"]
+  }
+  {
+
+  }
+]
+}
